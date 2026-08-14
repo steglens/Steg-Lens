@@ -2,9 +2,6 @@
 
 StegLens is a graduation project that allows secure steganography by hiding encrypted text messages inside images (PNG, JPEG, GIF). It uses a Python Flask backend and a modern HTML/CSS/JS frontend.
 
-## 🌐 Live Demo
-[https://steglens.online](https://steglens.online)
-
 ## 🎯 Features
 - Hide secret messages inside images
 - AES-128 and 3DES optional encryption
